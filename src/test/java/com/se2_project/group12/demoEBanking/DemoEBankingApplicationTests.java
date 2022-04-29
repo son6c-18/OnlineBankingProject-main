@@ -1,4 +1,4 @@
-package com.se2_project.group8C18.demoEBanking;
+package com.se2_project.group12.demoEBanking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
